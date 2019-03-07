@@ -17,7 +17,7 @@
     "dependencies": {
         "edge-js": "10.3.1",
         "ffi-napi": "2.4.3",
-        "gpii-universal": "cindyli/universal#0a4539bfd12f1a165235b66becb499ccac48586e",
+        "gpii-universal": "cindyli/universal#0475f870a0d8252e46ab9df4878f04e6881f4a8a",
         "@pokusew/pcsclite": "0.4.18",
         "ref": "1.3.4",
         "ref-struct": "1.1.0",
